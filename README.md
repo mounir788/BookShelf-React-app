@@ -2,8 +2,7 @@
 
 Welcome to MyRead app
 
-In this app you can search between hundereds of books and if you found something that you like you can add it to on of three shelves (currentlyReading, WantToRead, Read) and if you finished reading it or don't want it anymore you can remove itby click on none.
-After added the book to any of the shelves the state will be updated immediately so if you forgot and searched for the same book you will find it added before.
+In this app, you can search between hundreds of books and if you found something that you like you can add it to on of three shelves (currentlyReading, WantToRead, Read), and if you finished reading it or don't want it anymore you can remove it by click on none. After adding the book to any of the shelves the state will be updated immediately so if you forgot and searched for the same book you will find it added before.
 
 # API functions :
 
